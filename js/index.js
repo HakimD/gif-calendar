@@ -34,7 +34,7 @@ $(function() {
         var url = "https://media0.giphy.com/media/xSM46ernAUN3y/giphy.gif?cid=3640f6095c0683fa4e2e516f63ddd22b";
         break;
       case 7:
-        var url = "https://media3.giphy.com/media/CPutABwbvXC92/giphy.webp?cid=3640f6095c05594a31435a76775c8cb1";
+        var url = "https://media1.giphy.com/media/9CFQYEHg5CEmI/giphy.gif?cid=3640f6095c068f5d724642362ee60d37";
         break;
       case 8:
         var url = "https://media3.giphy.com/media/5xtDarqlsEW6F7F14Fq/200w.webp?cid=3640f6095c05596f5a717677498c0664";
@@ -79,7 +79,7 @@ function chooseUrl(month) {
       var url = "https://media0.giphy.com/media/xSM46ernAUN3y/giphy.gif?cid=3640f6095c0683fa4e2e516f63ddd22b";
       break;
     case 7:
-      var url = "https://media3.giphy.com/media/CPutABwbvXC92/giphy.webp?cid=3640f6095c05594a31435a76775c8cb1";
+      var url = "https://media1.giphy.com/media/9CFQYEHg5CEmI/giphy.gif?cid=3640f6095c068f5d724642362ee60d37";
       break;
     case 8:
       var url = "https://media3.giphy.com/media/5xtDarqlsEW6F7F14Fq/200w.webp?cid=3640f6095c05596f5a717677498c0664";

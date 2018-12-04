@@ -9,6 +9,7 @@ $(function() {
   var datepicker_header = document.getElementsByClassName("datepicker-header")[0];   
   var month = $(".datepicker").datepicker('getDate').getMonth()+1;
   var url = chooseUrl(month);
+  
   datepicker_header.style.backgroundImage = "url("+url+")";
 
   //Gif prev, next
@@ -53,8 +54,7 @@ $(function() {
       default:
       return url;  
     }
-    datepicker_header.style.backgroundImage = "url("+url+")";
-     
+    datepicker_header.style.backgroundImage = "url("+url+")";     
   });
 });
 
